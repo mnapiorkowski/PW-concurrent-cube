@@ -6,8 +6,8 @@ Implementation allows concurrent rotations that are not colliding with each othe
 
 ## Task
 
-Exact task in Polish is in ```tresc.pdf``` file.
+Exact task in Polish is in `tresc.pdf` file.
 
 ## Tests
 
-Some unit tests are implemented in ```CubeTest``` class.
+Some JUnit tests are implemented in `CubeTest` class.
